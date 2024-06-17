@@ -26,8 +26,6 @@ export default function Slider() {
                   <span>Stan Smith</span>,
                   Forever!
                 </h2>
-
-                <button className='btn'>КУПИТЬ</button>
               </div>
             </div>
 
@@ -47,8 +45,6 @@ export default function Slider() {
                   <span>Stan Smith</span>,
                   Forever!
                 </h2>
-
-                <button className='btn'>КУПИТЬ</button>
               </div>
             </div>
 
