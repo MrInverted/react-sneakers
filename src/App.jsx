@@ -11,7 +11,7 @@ import Purchased from "./pages/Purchased";
 
 import reducer from "./reducer";
 import { LS } from "./reducer/localStorage";
-import { wait } from "@testing-library/user-event/dist/utils";
+import { wait } from "./helpers/wait";
 
 export const SneakersContext = createContext({})
 
